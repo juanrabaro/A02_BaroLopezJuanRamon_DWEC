@@ -31,7 +31,3 @@
 ## Ejercicio 8
 
 * [Ejercicio8](https://juanrabaro.github.io/A02_BaroLopezJuanRamon_DWEC/ej8/index.html)
-
-## Ejercicio 9
-
-* [Ejercicio9](https://juanrabaro.github.io/A02_BaroLopezJuanRamon_DWEC/ej8/index.html)
